@@ -1,0 +1,5 @@
+Automatic Completions Spreadsheet
+
+This is a highly-automated excel sheet that uses VBA to find the optimal casing under the set conditions.
+
+Open the spreadsheet using Excel, and set your parameters for the casing. Then set the conditions you want to check, such as gas in tubing. After calculating the program will display graphs on the overall stability of the casing through the given scenarios.
